@@ -1,0 +1,44 @@
+.quadrado1{
+height: 300px;
+width: 100%;
+background-color: black;
+text-align: center;
+padding-top: 30px;
+color: rgb(75, 213, 255);
+}
+.quadrado2{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(85, 255, 127);
+    text-align: center;
+    padding-top: 30px;
+    color: rgb(2, 2, 2);
+    }
+    .quadrado3{
+        height: 300px;
+        width: 100%;
+        background-color: rgb(24, 24, 24);
+        text-align: center;
+        padding-top: 30px;
+        color: rgb(230, 255, 87);
+        }
+        .quadrado4{
+            height: 300px;
+            width: 100%;
+            background-color: rgb(163, 116, 62);
+            text-align: center;
+            padding-top: 30px;
+            color: rgb(211, 56, 56);
+            }
+            .quadrado5{
+                height: 300px;
+                width: 100%;
+                background-color: rgb(0, 47, 150);
+                text-align: center;
+                padding-top: 30px;
+                color: rgb(27, 27, 27);
+                }
+        
+    
+
+
